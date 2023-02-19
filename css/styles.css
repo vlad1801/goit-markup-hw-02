@@ -5,8 +5,15 @@ body {
 }
 .link {
 	text-decoration: none;
+	
 }
-.nav {
+.link:hover{
+	color: #404BBF;
+}
+
+.mybtn:hover {
+	color: #FFFFFF;
+	background: #404BBF;
 }
 .nav-logo {
 	width: 44px;
