@@ -1,19 +1,20 @@
 body {
+	font-family: "Roboto", "Raleway";
+	color: #434455;
 }
 .list {
 	list-style: none;
 }
 .link {
 	text-decoration: none;
-	
 }
-.link:hover{
-	color: #404BBF;
+.link:hover {
+	color: #404bbf;
 }
 
 .mybtn:hover {
-	color: #FFFFFF;
-	background: #404BBF;
+	color: #ffffff;
+	background: #404bbf;
 }
 .nav-logo {
 	width: 44px;
@@ -78,6 +79,7 @@ body {
 }
 .hero-icon {
 	background: #4d5ae5;
+	cursor: pointer;
 }
 .hero-text {
 	font-family: "Roboto";
@@ -208,6 +210,7 @@ body {
 	display: flex;
 	background: #f4f4fd;
 	border: 1px solid #e7e9fc;
+	cursor: pointer;
 }
 .buttons-text {
 	font-family: "Roboto";
