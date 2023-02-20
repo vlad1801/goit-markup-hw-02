@@ -16,6 +16,10 @@ body {
 	color: #ffffff;
 	background: #404bbf;
 }
+.mybtn-text:hover {
+	color: #ffffff;
+}
+
 .nav-logo {
 	width: 44px;
 	height: 24px;
@@ -207,7 +211,6 @@ body {
 / >portfolio
 */
 .buttons {
-	display: flex;
 	background: #f4f4fd;
 	border: 1px solid #e7e9fc;
 	cursor: pointer;
@@ -223,7 +226,7 @@ body {
 	text-align: center;
 	letter-spacing: 0.04em;
 	color: #4d5ae5;
-	color: #4d5ae5;
+	
 }
 /*
 (\_/)
