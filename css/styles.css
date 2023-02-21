@@ -48,7 +48,7 @@ body {
 	font-family: "Roboto", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 24px;
+	line-height: 1.33;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: var(--Iris-color);
@@ -59,21 +59,21 @@ body {
 .nav-link {
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 	color: var(--Navyblue-color);
 }
 .nav-mail {
 	font-style: normal;
 	font-weight: 400;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 	color: var(--SLATE-color);
 }
 .nav-call {
 	font-style: normal;
 	font-weight: 400;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 	color: var(--SLATE-color);
 }
 /*
@@ -87,7 +87,7 @@ body {
 .hero-title {
 	font-weight: 700;
 	font-size: 56px;
-	line-height: 60px;
+	line-height: 1.07;
 	color: var(--white-color);
 }
 .hero-icon {
@@ -98,7 +98,7 @@ body {
 .hero-text {
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 	color: var(--white-color);
 }
 /*
@@ -111,13 +111,13 @@ body {
 .about-title {
 	font-weight: 500;
 	font-size: 20px;
-	line-height: 24px;
+	line-height: 1.2;
 	color: var(--Navyblue-color);
 }
 .about-text {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 }
 /*
 (\_/)
@@ -129,7 +129,7 @@ body {
 .meta-title {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 40px;
+	line-height: 1.11;
 	color: var(--Navyblue-color);
 }
 .meta-mind {
@@ -147,7 +147,7 @@ body {
 .midl-title {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 40px;
+	line-height: 1.11;
 	color: var(--Navyblue-color);
 }
 .midl-mind {
@@ -160,13 +160,13 @@ body {
 .midl-name {
 	font-weight: 500;
 	font-size: 20px;
-	line-height: 24px;
+	line-height: 1.2;
 	color: var(--Navyblue-color);
 }
 .midl-text {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 }
 /*
 (\_/)
@@ -178,15 +178,12 @@ body {
 }
 .last-logo {
 	font-family: "Roboto", sans-serif;
-	font-style: normal;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 21px;
-	color: var(--Iris-color);
-	display: flex;
-	align-items: center;
+	line-height: 1.33;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
+	color: var(--Iris-color);
 }
 .last-logo-studio {
 	color: var(--mybtn-text-color);
@@ -194,7 +191,7 @@ body {
 .last-logo-text {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 	color: var(--cornflower-color);
 }
 /*
@@ -211,7 +208,7 @@ body {
 	font-family: "Roboto";
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 	color: var(--Iris-color);
 }
 /*
@@ -226,12 +223,12 @@ body {
 .statik-title {
 	font-weight: 500;
 	font-size: 20px;
-	line-height: 24px;
+	line-height: 1.2;
 
 	color: var(--Navyblue-color);
 }
 .statik-text {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 1.5;
 }
