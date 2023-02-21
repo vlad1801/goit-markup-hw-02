@@ -1,7 +1,7 @@
 :root {
-	--Iris-color: #4D5AE5;
-	--OCEAN-color:#404BBF;
-	--Navyblue-color: #2E2F42;
+	--Iris-color: #4d5ae5;
+	--OCEAN-color: #404bbf;
+	--Navyblue-color: #2e2f42;
 	--SLATE-color: #434455;
 	--white-color: #ffffff;
 	--mybtn-text-color: #f4f4fd;
@@ -10,7 +10,7 @@
 body {
 	font-family: "Roboto", "Raleway";
 	color: var(--SLATE-color);
-	background-color:var(---color);
+	background-color: var(---color);
 }
 .visually-hidden {
 	position: absolute;
@@ -19,12 +19,12 @@ body {
 	margin: -1px;
 	border: 0;
 	padding: 0;
-	
+
 	white-space: nowrap;
 	clip-path: inset(100%);
 	clip: rect(0 0 0 0);
 	overflow: hidden;
-  }
+}
 
 .list {
 	list-style: none;
@@ -45,7 +45,7 @@ body {
 }
 
 .nav-logo {
-	font-family: "Raleway";
+	font-family: "Roboto", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 24px;
@@ -177,7 +177,7 @@ body {
 	background: var(--Navyblue-color);
 }
 .last-logo {
-	font-family: "Raleway";
+	font-family: "Roboto", sans-serif;
 	font-style: normal;
 	font-weight: 800;
 	font-size: 18px;
